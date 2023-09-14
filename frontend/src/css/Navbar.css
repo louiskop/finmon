@@ -1,0 +1,24 @@
+.navbar {
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar div {
+    width:30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar div a {
+    text-decoration: none;
+    color: white;
+}
+
+.active {
+    border-bottom: 1px solid  #E4005A;
+}

@@ -1,0 +1,26 @@
+.accounts {
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 10vw;
+    row-gap: 10vh;
+    width: 100%;
+}
+
+.outerAccs {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.outerAccs h1 {
+    margin-top: 5rem;
+    color:  #E4005A;
+    background-color :#1C1B22;
+    padding: 2rem; 
+    border-radius: 20px;
+}

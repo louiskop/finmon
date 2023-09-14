@@ -1,0 +1,23 @@
+.transitem {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #E4005A;
+    width: 100%;
+}
+
+.transitem div {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#greentable {
+    color: green;
+}
+
+#redtable {
+    color: red;
+}
