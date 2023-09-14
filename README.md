@@ -1,6 +1,8 @@
 # finmon
 a Node js and React web application to track my income and expenses.
 
+![FIGURE](https://github.com/louiskop/finmon/assets/35295041/9625d0b5-79e5-424c-95f0-894598c8898b)
+
 **Backend**
 - a Node js and express API.
 - Uses mongoose ORM to interact with the database
